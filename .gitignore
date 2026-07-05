@@ -1,0 +1,39 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Static & Shared Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Build directories
+bin/
+build/
+Debug/
+Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# VS Code (optional)
+.vscode/
+
+# Visual Studio
+.vs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
