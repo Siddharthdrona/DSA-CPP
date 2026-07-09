@@ -29,6 +29,15 @@ Node* BuildTree(vector<int> preorder) {
     return root; 
 }
 
+void PreOrder(Node* root) {
+    if(root == NULL) return ;
+
+    cout << root->data << " ";
+    PreOrder(root->left);
+    PreOrder(root->right);
+}
+
+
 int sumTree(Node* root) {
   if(root == NULL) return 0;
 
@@ -45,7 +54,14 @@ int main() {
 
     Node* root = BuildTree(preorder);
 
-    cout << sumTree(root) << endl;
+    cout << "Before Conversion : ";
+    PreOrder(root);
+    cout << endl;
+
+    sumTree(root);
+
+    cout << "After Conversion : ";
+    PreOrder(root);
 
     return 0;
 }
