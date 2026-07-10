@@ -81,7 +81,9 @@ DSA-CPP/
 
 ## 🔗 Coding Profiles
 
+<!--
 Replace the placeholders with your usernames.
+-->
 
 * **LeetCode:** [SiddharthDronacharya](https://leetcode.com/u/SiddharthDronacharya/)
 * **CodeChef:** [siddharthdrona](https://www.codechef.com/users/siddharthdrona)
