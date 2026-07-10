@@ -68,14 +68,14 @@ DSA-CPP/
 
 | Topic               | Status |
 | :------------------ | :----: |
-| Arrays              |    ✅   |
-| Recursion           |    ✅   |
-| Linked Lists        |    ✅   |
-| Stacks              |    ✅   |
-| Queues              |    ✅   |
+| Arrays              |   ✅   |
+| Recursion           |   ✅   |
+| Linked Lists        |   ✅   |
+| Stacks              |   ✅   |
+| Queues              |   ✅   |
 | Trees               |   🚧   |
-| Graphs              |    ⏳   |
-| Dynamic Programming |    ⏳   |
+| Graphs              |   ⏳   |
+| Dynamic Programming |   ⏳   |
 
 ---
 
@@ -83,16 +83,17 @@ DSA-CPP/
 
 Replace the placeholders with your usernames.
 
-* **LeetCode:** https://leetcode.com/u/SiddharthDronacharya/
-* **CodeChef:** https://www.codechef.com/users/siddharthdrona
+* **LeetCode:** [SiddharthDronacharya](https://leetcode.com/u/SiddharthDronacharya/)
+* **CodeChef:** [siddharthdrona](https://www.codechef.com/users/siddharthdrona)
+
 ---
 
 ## 📖 Useful Resources
 
-* LeetCode – https://leetcode.com/problemset/
-* GeeksforGeeks – https://www.geeksforgeeks.org/data-structures/
-* CP-Algorithms – https://cp-algorithms.com/
-* NeetCode Roadmap – https://neetcode.io/roadmap
+* LeetCode – [https://leetcode.com/problemset/](https://leetcode.com/problemset/)
+* GeeksforGeeks – [https://www.geeksforgeeks.org/data-structures/](https://www.geeksforgeeks.org/data-structures/)
+* CP-Algorithms – [https://cp-algorithms.com/](https://cp-algorithms.com/)
+* NeetCode Roadmap – [https://neetcode.io/roadmap](https://neetcode.io/roadmap)
 
 ---
 
